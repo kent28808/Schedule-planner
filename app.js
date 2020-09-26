@@ -8,6 +8,8 @@ $(document).ready(function () {
         localStorage.setItem(ParentId, SiblingText)
     })
 
+    $("#date-formatted").text(moment().format());
+
     //Local Storage for text content
     $("#hour-9 .description").val(localStorage.getItem("hour-9"));  
     $("#hour-10 .description").val(localStorage.getItem("hour-10"));
