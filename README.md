@@ -1,11 +1,14 @@
 # Schedule-planner
+
 ## Description
 
-This is my fourth project, where I was tasked with creating a Code quiz with questions and answers of my choosing.
-This application was created with CSS, HTML and Javascript.  The app, allows the user to review a question and select one of the (4) multiple choice answers provided.
-There is also a timer that will start counting down from 5 minutes and 0 seconds once the user clicks on the start game button.  
-If the answer selected is incorrect, 10 seconds will be removed from the countdown.  
-Once the quiz has been completed, the user has the option to enter their initials for a High Score record.
+This is my fitth project, where I was tasked with creating a simple calendar application that allows the user to save events for each hour of the day.  
+This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+[Moment.js] was used to display the current date and time.
+
+![day planner demo](./Assets/05-third-party-apis-homework-demo.gif)
+
+![day planner screenshot](my-class-repo/HW/Schedule-planner/Screen Shot 2020-09-26 at 8.40.28 PM.png)
 
 ## Built With
 
@@ -14,11 +17,12 @@ Once the quiz has been completed, the user has the option to enter their initial
 * [Bootstrap](https://getbootstrap.com/)
 * [JS](https://www.w3schools.com/js/)
 * [JQuery] (https://www.jquery.com)
+* [Moment.js] (https://www.momentjs.com)
 
 
 ## Deployed Link
 
-* [Deployed link]()
+* [Deployed link](https://kent28808.github.io/Schedule-planner/)
 
 
 ## Authors
@@ -54,4 +58,4 @@ SOFTWARE.
 
 ## Acknowledgments
 
-* Hats off to instructional staff and Javascript.
+* Hats off to instructional staff, and all technology libraries used.
