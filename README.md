@@ -8,7 +8,6 @@ This app will run in the browser and feature dynamically updated HTML and CSS po
 
 ![day planner demo](./Assets/05-third-party-apis-homework-demo.gif)
 
-![day planner screenshot](Screen Shot 2020-09-26 at 8.40.28 PM.png)
 
 ## Built With
 
